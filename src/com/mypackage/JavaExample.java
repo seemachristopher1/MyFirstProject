@@ -11,5 +11,9 @@ public class JavaExample {
 	public void mymethod() {
 		
 	}
+	
+	public void venkatmethod() {
+		
+	}
 
 }
