@@ -7,5 +7,9 @@ public class JavaExample {
 		System.out.println("H There");
 
 	}
+	
+	public void mymethod() {
+		
+	}
 
 }
