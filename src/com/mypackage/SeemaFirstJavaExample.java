@@ -11,5 +11,9 @@ public class SeemaFirstJavaExample {
 	public void mymethod() {
 		
 	}
+	
+	public String myStringMethod() {
+		return "Hi Seema";
+	}
 
 }
